@@ -46,6 +46,8 @@ flutter_native_splash:
     color: '#F9F9F9F9'
     image_dark: assets/splash/crazy_monkey.png
     color_dark: '#000000'
+    android: true
+    ios: true
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
